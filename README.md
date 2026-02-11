@@ -1,6 +1,6 @@
 # proyecto de uso de herramientas git con contribuyentes
 
-breve descripcion
+breve descripcion sobre Git
 
 ---
 
@@ -12,9 +12,11 @@ breve descripcion
 - [Instalacion](#instalacion)
 
 ## Caracteristicas
-- funcionalidad 1
-- Funcionalidad 2
-- Funcionalidad 3
+- Distribuido y Descentralizado 
+- Rastreo Preciso de Cambios
+- Rastreo Preciso de Cambios
+- Ramificación Eficiente
+- Fusiones Simplificadas
 
 ---
 
