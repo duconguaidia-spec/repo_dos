@@ -16,7 +16,6 @@ breve descripcion sobre Git
 - Rastreo Preciso de Cambios
 - Rastreo Preciso de Cambios
 - Ramificación Eficiente
-- Fusiones Simplificadas
 
 ---
 
