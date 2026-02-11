@@ -58,4 +58,4 @@ cd proyecto
 
 
 [![Click para ver video](asset/imagen.jpeg)](https://youtu.be/RQ9Bf_Vq6cc)
-[![Click para ver video](https://www.google.com/imgres?q=imagen%20png&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F445%2F734%2Fpng-transparent-mythical-phoenix-watercolor-resplendent-flaming-phoenix-bird-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fes&docid=Fx-FgbWf_V7bXM&tbnid=90CEMAD-Hr5sMM&vet=12ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIHxAB..i&w=360&h=360&hcb=2&ved=2ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIHxAB)]
+[![Click para ver video](https://www.google.com/imgres?q=imagen%20png&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F05%2F31%2F16%2F39%2Fwindows-2360920_640.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Fpng%2F&docid=x87a938vQmUhcM&tbnid=BtWKB38K5aYXfM&vet=12ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIFxAB..i&w=640&h=480&hcb=2&ved=2ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIFxAB)](https://youtu.be/RQ9Bf_Vq6cc)
