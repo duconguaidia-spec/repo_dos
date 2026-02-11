@@ -1,6 +1,6 @@
 # proyecto de uso de herramientas git con contribuyentes
 
-Linea para generar conflictos
+Linea para generar conflictos en rama2
 
 ---
 
