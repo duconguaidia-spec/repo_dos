@@ -27,8 +27,9 @@ breve descripcion
 
 ## Requerimientos
 - Version minima del lenguaje
-- Dependencias necesarias
 - Sofware requerido 
+- Variables de entorno
+- Gestor de paquetes 
 
 ---
 ## Instalacion
