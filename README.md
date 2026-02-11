@@ -2,6 +2,7 @@
 
 breve descripcion sobre Git
 Angel
+Linea para generar conflictos en rama1
 Linea para generar conflictos en rama2
 
 ---
