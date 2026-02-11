@@ -58,4 +58,4 @@ cd proyecto
 
 
 [![Click para ver video](asset/imagen.jpeg)](https://youtu.be/RQ9Bf_Vq6cc)
-[![Click para ver video](https://www.google.com/imgres?q=imagen%20png&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F05%2F31%2F16%2F39%2Fwindows-2360920_640.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Fpng%2F&docid=x87a938vQmUhcM&tbnid=BtWKB38K5aYXfM&vet=12ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIFxAB..i&w=640&h=480&hcb=2&ved=2ahUKEwj-uMGYotKSAxX2RzABHRDHPBMQnPAOegQIFxAB)](https://youtu.be/RQ9Bf_Vq6cc)
+[![Click para ver video](https://cdn.pixabay.com/photo/2017/05/31/16/39/windows-2360920_640.png)](https://youtu.be/RQ9Bf_Vq6cc)
