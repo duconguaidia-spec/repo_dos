@@ -19,6 +19,13 @@ breve descripcion sobre Git
 
 ---
 
+## Ventajas de Git
+- permite el trabajo sin conexion
+- La informacion esta mas segura 
+- Es mas rapida y menos propensa a problemas
+
+---
+
 ## Tecnologias
 - Lenguaje / Framework principal
 - Base de datos
