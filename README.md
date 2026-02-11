@@ -2,6 +2,8 @@
 
 breve descripcion sobre Git
 Angel
+Linea para generar conflictos en rama2
+
 ---
 
 ## Tabla de contenido
