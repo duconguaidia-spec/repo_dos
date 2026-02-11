@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git con contribuyentes
 
 breve descripcion sobre Git
-
+Angel
 ---
 
 ## Tabla de contenido
